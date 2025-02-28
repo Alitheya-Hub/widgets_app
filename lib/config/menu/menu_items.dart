@@ -24,7 +24,7 @@ MenuItem(
 
 MenuItem(
   title: 'Tarjetas', 
-  link: '/card', 
+  link: '/cards', 
   subTitle: 'Un contenedor estilizado', 
   icon: Icons.credit_card)
 
