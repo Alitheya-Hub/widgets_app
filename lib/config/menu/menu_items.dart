@@ -42,4 +42,10 @@ MenuItem(
   subTitle: 'Indicadores en pantalla', 
   icon: Icons.info_outline),
 
+  MenuItem(
+  title: 'Animated container', 
+  link: '/animated', 
+  subTitle: 'Stateful widgets animado', 
+  icon: Icons.check_box_outline_blank),
+
 ];

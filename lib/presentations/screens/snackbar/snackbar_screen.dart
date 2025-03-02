@@ -21,7 +21,7 @@ class SnackBarScreen extends StatelessWidget {
   void openDialog(BuildContext context) {
     showDialog(
       context: context, 
-      barrierDismissible: false,
+      barrierDismissible: false, //obliga al usuario a clickar sobre una de las "actions", debe aceptar o cancelar
       builder: (context) => AlertDialog(
         title: Text('¿Estás seguro?'),
         content: Text('Eu ullamco et sunt occaecat cupidatat et duis laborum culpa aliquip ea sint cupidatat ea. Irure esse dolore aliqua nostrud aute ut aliquip quis labore. Dolor eiusmod voluptate est ea laborum. Cillum occaecat nulla cupidatat aute anim cillum duis elit culpa nulla eu non.'),
