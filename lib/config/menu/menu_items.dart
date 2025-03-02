@@ -26,6 +26,13 @@ MenuItem(
   title: 'Tarjetas', 
   link: '/cards', 
   subTitle: 'Un contenedor estilizado', 
-  icon: Icons.credit_card)
+  icon: Icons.credit_card),
+
+
+MenuItem(
+  title: 'ProgressIndicators', 
+  link: '/progress', 
+  subTitle: 'Generales y controlados', 
+  icon: Icons.refresh_rounded)
 
 ];

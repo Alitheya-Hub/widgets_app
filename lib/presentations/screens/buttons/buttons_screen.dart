@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 class ButtonScreen extends StatelessWidget {
+  static const String name = 'Button_Screen';
   const ButtonScreen({super.key});
 
   @override
