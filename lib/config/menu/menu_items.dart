@@ -33,6 +33,13 @@ MenuItem(
   title: 'ProgressIndicators', 
   link: '/progress', 
   subTitle: 'Generales y controlados', 
-  icon: Icons.refresh_rounded)
+  icon: Icons.refresh_rounded),
+  
+
+  MenuItem(
+  title: 'Snackbars y diálogos', 
+  link: '/snackbars', 
+  subTitle: 'Indicadores en pantalla', 
+  icon: Icons.info_outline),
 
 ];
