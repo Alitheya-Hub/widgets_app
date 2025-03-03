@@ -48,4 +48,10 @@ MenuItem(
   subTitle: 'Stateful widgets animado', 
   icon: Icons.check_box_outline_blank),
 
+  MenuItem(
+  title: 'UI Controls + Tiles', 
+  link: '/ui-controls', 
+  subTitle: 'UNa serie de controles de flutter', 
+  icon: Icons.car_rental_outlined),
+
 ];
