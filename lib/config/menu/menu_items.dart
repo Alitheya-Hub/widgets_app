@@ -54,4 +54,10 @@ MenuItem(
   subTitle: 'UNa serie de controles de flutter', 
   icon: Icons.car_rental_outlined),
 
+  MenuItem(
+  title: 'Tutorial de la APP', 
+  link: '/tutorial', 
+  subTitle: 'Pequeño tutorial intorductorio', 
+  icon: Icons.car_rental_outlined),
+
 ];
