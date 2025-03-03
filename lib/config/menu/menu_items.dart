@@ -60,4 +60,10 @@ MenuItem(
   subTitle: 'Pequeño tutorial intorductorio', 
   icon: Icons.car_rental_outlined),
 
+  MenuItem(
+  title: 'InifniteScroll y Pull', 
+  link: '/infinite', 
+  subTitle: 'Scroll infinito más pull', 
+  icon: Icons.list_alt_rounded),
+
 ];
